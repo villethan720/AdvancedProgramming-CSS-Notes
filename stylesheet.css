@@ -1,0 +1,30 @@
+body {
+    color: rgb(0, 4, 255);
+    text-align: center;
+    font-style: italic;
+}
+p {
+    color: black;
+    font-style: normal;  
+    font-size: 24px;    /*or can be large medium or small */
+}
+p1 {
+    color: red;
+    font-style: normal;
+    font-size:large;  
+}
+h1 {
+    color: purple;
+    text-align:left;
+    font-style:normal;
+}
+
+#top {
+    background-color:rgb(127, 228, 11);
+    padding: 20px;
+}
+
+.intro{
+    color:black;
+    font-weight: 900;
+}
